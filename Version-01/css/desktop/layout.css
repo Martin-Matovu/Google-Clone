@@ -1,0 +1,45 @@
+.head {
+    height: 60px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 10px;
+}
+.head-wrapper {
+    height: 100%;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.popup-nav {
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+.google-logo {
+    text-align: center;
+    margin: 1.25rem;
+}
+.google-search {
+    height: 70%;
+    margin: 1.25rem;
+    display: flex;
+    justify-content: center;
+}
+.search-buttons {
+    display: flex;
+    justify-content: center;
+    margin: 0.625rem;
+}
+.other-languages {
+    font-family: Montserrat;
+    margin: 0 18.75rem;
+}
+.foot {
+    height: 20%;
+    background: #eeeeee;
+}

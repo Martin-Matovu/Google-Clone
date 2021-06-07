@@ -1,0 +1,43 @@
+.popup-button:hover {
+    background: #eeeeee;
+    transition: 0.2s;
+}
+.popup-button:active {
+    background: #a7a7a7;
+}
+.grid-test-component:hover {
+    box-shadow: 0 0 0.625rem #eeeeee;
+}
+.sign-in:focus {
+    outline: none;
+}
+.sign-in:hover {
+    background: #008cc8;
+    transition: 0.2s;
+}
+.sign-in:active {
+    background: #00608a;
+    transition: 0.2s;
+}
+.search-field:focus {
+    outline: none;
+}
+.search-field:hover {
+    box-shadow: 0 0 0.625rem #eeeeee;
+    transition: 0.5s;
+}
+.search-field:active {
+    box-shadow: 0 0 1rem #eeeeee;
+    transition: 0.2s;
+}
+.search-button:hover, .lucky-button:hover {
+    box-shadow: 0 0 0.625rem #eeeeee;
+    transition: 0.5s;
+}
+.search-button:active, .lucky-button:active {
+    box-shadow: 0 0 1rem #eeeeee;
+    transition: 0.2s;
+}
+.search-button:focus, .lucky-button:focus {
+    outline: none;
+}
